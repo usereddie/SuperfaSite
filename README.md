@@ -1,2 +1,2 @@
 # SuperfaSite
-Designed and built a responsive webpage using HTML, CSS, & JS to bring the world's best two soccer players to life! My process is documented to show how I designed this site and how I used user feedback to improve.
+Designed and built a responsive webpage using HTML, CSS, & JS to bring the world's best two soccer players to life! My process is documented to show how I designed this site and how I used user feedback to improve. We were tasked with choosing our own topic, but had to make the page responsive using multiple JS features along with enhancing the user experience so that the page was enjoyable and intuitive.
